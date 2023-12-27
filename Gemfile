@@ -7,7 +7,7 @@ gem 'rails', '~> 6.1.7', '>= 6.1.7.6'
 gem 'pg', '~> 1.5'
 gem 'puma', '~> 5.0'
 gem 'sass-rails', '>= 6'
-gem 'webpacker', '~> 5.0'
+gem 'webpacker', '~> 5.4', '>= 5.4.4'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.7'
 # Use Redis adapter to run Action Cable in production
